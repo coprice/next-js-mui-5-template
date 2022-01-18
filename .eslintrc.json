@@ -1,0 +1,14 @@
+{
+    "plugins": ["@typescript-eslint"],
+    "extends": ["next/core-web-vitals", "plugin:@typescript-eslint/recommended"],
+    "rules": {
+        "@next/next/no-img-element": "off",
+        "jsx-a11y/alt-text": "off",
+        "react/display-name": "off",
+        "react-hooks/exhaustive-deps": "off",
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-empty-function": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "semi": "warn"
+    }
+}
