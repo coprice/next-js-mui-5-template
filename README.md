@@ -1,7 +1,6 @@
-# Web App Name
+# NextJS + MaterialUI V5 Template
 
 -   This is a template for Next JS apps with Typescript and MUI v5.
--   If you do not wish to deploy with Google Cloud, feel free to delete the `.gcloudignore` and `app.yaml` files
 
 ## Setup
 
